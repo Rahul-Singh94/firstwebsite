@@ -23,7 +23,7 @@
 	<li>Name             : Raul Singh</li><br>
 	<li>Education        : Master in Technology </li><br>
 	<li>Department       : Aerospace Engineering</li><br>
-	<li>Research interest: Algorithmic research in CFD</li>
+	<li>Research interest: Algorithmic research in CFD</li><br>
 </ol>
 <h2>Intrested in research field...Fill the following information and see the importance of research</h2><br>
 <form action="https://owlcation.com/academia/Why-Research-is-Important-Within-and-Beyond-the-Academe" target="_blank"> 
