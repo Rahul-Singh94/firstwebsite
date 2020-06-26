@@ -26,6 +26,19 @@
 	<li>Research interest: Algorithmic research in CFD</li><br>
 </ol>
 <h2>Intrested in research field...Fill the following information and see the importance of research</h2><br>
+<form action="https://owlcation.com/academia/Why-Research-is-Important-Within-and-Beyond-the-Academe" target="_blank"> 
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+  <br>	
+  <input type="radio" id="" name="qualification" value="undergraduate">
+  <label for="undergraduate">Undergraduate</label><br>
+  <input type="radio" id="postgraduate" name="qualification" value="postgraduate">
+  <label for="postgraduate">Postgraduate</label><br>
+  <br><br>	
+  <input type="submit" value="Submit">
+</form> 
 <h2>Following article shows the gist of CFD reserach</h2>
 
 <div class="myDiv">
