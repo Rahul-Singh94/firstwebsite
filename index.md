@@ -14,7 +14,7 @@
 
 <h1 style="color:blue"><center>ABOUT ME</center></h1>
 <p>This website tells briefly about my biography.</p>
-  <div>
+  <div class="myDiv">
   	<img align="right"src="https://raw.githubusercontent.com/Rahul-Singh94/firstwebsite/master/DSC00089.JPG" class="img-responsive" alt="Simply Easy Learning" width="200"/>
   </div>
 <br>
