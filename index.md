@@ -15,7 +15,7 @@
 <h1 style="color:blue"><center>ABOUT ME</center></h1>
 <p>This website tells briefly about my biography.</p>
   <div class="myDiv">
-  	<img align="right"src="https://raw.githubusercontent.com/Rahul-Singh94/firstwebsite/master/DSC00089.JPG" />
+  	<img align="right"src="https://raw.githubusercontent.com/Rahul-Singh94/firstwebsite/master/DSC00089.JPG" width="200" />
   </div>
 <br>
 <h3>Parameters</h3>
